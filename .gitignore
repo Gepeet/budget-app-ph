@@ -1,0 +1,34 @@
+# React Native
+node_modules/
+android/
+ios/
+*.log
+
+# macOS
+.DS_Store
+
+# Xcode
+*.xcworkspace/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Test files
+*.snap
+__tests__/
+
+# Build files
+build/
+dist/
+*.apk
+*.aab
+*.ipa
+*.pxd
+*.h
+*.m
+
